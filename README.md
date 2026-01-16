@@ -49,7 +49,7 @@ Alpaca4d-lab/
   <ul>
     <li><strong>Developer (of .gh definitions):</strong> Tufail Mabood</li>
     <li><strong>Contact:</strong> <a href="https://wa.me/+923440907874">WhatsApp</a></li>
-    <li><strong>Note:</strong> This tool is open-source. Feel free to modify it and share improvements.</li>
+    <li><strong>Note:</strong> These .gh definitions are open-source. Feel free to modify them and share improvements.</li>
   </ul>
 </body>
 </html>
